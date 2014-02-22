@@ -1,6 +1,6 @@
 Rene Frogger
 ============
-This is my first attempt to program a game on an Arduino, using a 16x2 rows LCD. It's a simple Frogger type game with a horizontal orientation (get from left to right instead of from bottom to top).
+This is my first attempt to program a game on an Arduino, using a 16x2 rows LCD. It's a simple [Frogger][4] type game with a horizontal orientation (get from left to right instead of from bottom to top).
 
 ![screen shot 2014-02-22 at 18 15 21 pm](https://f.cloud.github.com/assets/431360/2238264/2c2ecb50-9be5-11e3-99a3-a2530dec3659.png)
 ![screen shot 2014-02-22 at 18 15 31 pm](https://f.cloud.github.com/assets/431360/2238263/2c201f24-9be5-11e3-81b0-27d2f1ad7dce.png)
@@ -21,3 +21,4 @@ Tip; watch out for the monsters!!!111!1!1
   [1]: http://www.dfrobot.com/index.php?route=product/product&product_id=51
   [2]: http://dx.com/p/lcd-keypad-shield-for-arduino-duemilanove-lcd-1602-118059?Utm_rid=89236863&Utm_source=affiliate
   [3]: http://playground.arduino.cc/Code/SimpleTimer
+  [4]: http://en.wikipedia.org/wiki/Frogger
