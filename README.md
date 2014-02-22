@@ -1,6 +1,7 @@
 Rene Frogger
 ============
 This is my first attempt to program a game on an Arduino, using a 16x2 rows LCD. It's a simple Frogger type game with a horizontal orientation (get from left to right instead of from bottom to top).
+
 ![screen shot 2014-02-22 at 18 15 21 pm](https://f.cloud.github.com/assets/431360/2238264/2c2ecb50-9be5-11e3-99a3-a2530dec3659.png)
 ![screen shot 2014-02-22 at 18 15 31 pm](https://f.cloud.github.com/assets/431360/2238263/2c201f24-9be5-11e3-81b0-27d2f1ad7dce.png)
 ![screen shot 2014-02-22 at 18 15 39 pm](https://f.cloud.github.com/assets/431360/2238262/2c032bc6-9be5-11e3-8505-65f3f90ffb9f.png)
